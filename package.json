@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "homepage": "https://twincasper.github.io/react-calculator/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
